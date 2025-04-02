@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="SHAP_Summary_Plot.png" width="400"/></td>
-    <td><img src="Top_10_tracks_per_playlist.png.png" width="400"/></td>
+    <td><img src="Top_10_tracks_per_playlist.png" width="400"/></td>
   </tr>
 </table>
 
