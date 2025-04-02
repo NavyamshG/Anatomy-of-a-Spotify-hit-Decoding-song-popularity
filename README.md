@@ -7,9 +7,6 @@
   </tr>
 </table>
 
-
-![SHAP Summary Plot](SHAP_Summary_Plot.png) 
-
 ![Average Danceability by Genre](Average_of_each_per_genre.png)
 
 ![Correlation Heatmap](Interactive_Correlation_heatmap.png)
