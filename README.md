@@ -12,7 +12,7 @@
 ![Correlation Heatmap](Interactive_Correlation_heatmap.png)
 
 ![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
-<img src="Top_10_tracks_per_playlist.png" alt="Top Tracks" width="600" height="600">
+
 ---
 
 This project dives deep into understanding what makes a song popular on Spotify using statistical analysis, machine learning, and explainability tools. By leveraging audio and metadata features, we built predictive models and interpreted their inner workings using SHAP to uncover the driving forces behind track popularity.
