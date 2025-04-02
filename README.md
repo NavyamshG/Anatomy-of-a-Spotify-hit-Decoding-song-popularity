@@ -6,8 +6,9 @@
 
 ![Correlation Heatmap](Interactive_Correlation_heatmap.png)
 
-![Top Tracks per Playlist Genre](Top_10_tracks_per_playlist.png)
+
 <img src="Top_10_tracks_per_playlist.png" alt="Top Tracks" width="600" height="600">
+
 ![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
 
 ---
