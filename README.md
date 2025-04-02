@@ -1,5 +1,6 @@
 # 🎵 The Anatomy of a Spotify Hit: Decoding Song Popularity
 
+This project dives deep into understanding what makes a song popular on Spotify using statistical analysis, machine learning, and explainability tools. By leveraging audio and metadata features, we built predictive models and interpreted their inner workings using SHAPLEY explanations to uncover the driving forces behind track popularity.
 <table>
   <tr>
     <td><img src="SHAP_Summary_Plot.png" width="400"/></td>
@@ -15,7 +16,7 @@
 
 ---
 
-This project dives deep into understanding what makes a song popular on Spotify using statistical analysis, machine learning, and explainability tools. By leveraging audio and metadata features, we built predictive models and interpreted their inner workings using SHAP to uncover the driving forces behind track popularity.
+
 
 ## 📌 Project Highlights
 
