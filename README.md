@@ -1,10 +1,10 @@
 # 🎵 The Anatomy of a Spotify Hit: Decoding Song Popularity
 
-![Top Tracks per Playlist Genre](Top_10_tracks_per_playlist.png)
-![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
 ![SHAP Summary Plot](SHAP_Summary_Plot.png)
+![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
 ![Average Danceability by Genre](Average_of_each_per_genre.png)
 ![Correlation Heatmap](Interactive_Correlation_heatmap.png)
+![Top Tracks per Playlist Genre](Top_10_tracks_per_playlist.png)
 
 ---
 
