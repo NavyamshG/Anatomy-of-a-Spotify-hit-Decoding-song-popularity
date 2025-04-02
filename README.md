@@ -1,11 +1,15 @@
 # 🎵 The Anatomy of a Spotify Hit: Decoding Song Popularity
 
-![SHAP Summary Plot](SHAP_Summary_Plot.png)
-![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
+![SHAP Summary Plot](SHAP_Summary_Plot.png) 
+<img src="Average_of_each_per_genre.png" alt="Top Tracks" width="600" height="600">
 ![Average Danceability by Genre](Average_of_each_per_genre.png)
+<img src="Average_of_each_per_genre.png" alt="Top Tracks" width="1000" height="600">
 ![Correlation Heatmap](Interactive_Correlation_heatmap.png)
+<img src="Interactive_Correlation_heatmap.png" alt="Top Tracks" width="600" height="600">
 ![Top Tracks per Playlist Genre](Top_10_tracks_per_playlist.png)
-
+<img src="Top_10_tracks_per_playlist.png" alt="Top Tracks" width="600" height="600">
+![Genre Popularity Over Time](BarChart_Popularity_of_Genres_Over_Time.png)
+<img src="BarChart_Popularity_of_Genres_Over_Time.png" alt="Top Tracks" width="600" height="600">
 ---
 
 This project dives deep into understanding what makes a song popular on Spotify using statistical analysis, machine learning, and explainability tools. By leveraging audio and metadata features, we built predictive models and interpreted their inner workings using SHAP to uncover the driving forces behind track popularity.
